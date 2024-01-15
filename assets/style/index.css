@@ -1,0 +1,27 @@
+body {
+    background-color: #202643;
+}
+
+
+
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.profile-Img {
+    width: 200px;
+}
+
+.profile h2 {
+    margin-top: 10px;
+    color: white;
+}
+
+.profile h5 {
+    transform: translateY(-10px);
+    color: white;
+}
