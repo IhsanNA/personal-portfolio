@@ -1,5 +1,6 @@
 body {
-    background-color: #202643;
+    /* background-color: #202643; */
+    background-color: #d0d8ed;
 }
 
 
@@ -18,10 +19,16 @@ body {
 
 .profile h2 {
     margin-top: 10px;
-    color: white;
 }
 
 .profile h5 {
     transform: translateY(-10px);
-    color: white;
 }
+
+.biodata {
+    background: linear-gradient(#fff 0%, #ffffffb6 40%, #ffffff00 100%);
+    padding-bottom: 200px;
+}
+
+
+
